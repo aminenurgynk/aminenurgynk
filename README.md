@@ -9,9 +9,6 @@
   <img src="https://streak-stats.demolab.com?user=aminenurgynk&locale=en&mode=weekly&theme=panda&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/aminenurgynk/aminenurgynk/output/snake.svg" alt="Snake animation" />
 
 ###
 <!--
